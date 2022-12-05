@@ -4,7 +4,7 @@ Class: L1BC
 
 NIM: 2602158531
 
-To see if the program is working or not, go to google chrome and press (Ctrl + Shift + J) for windows, then press console and copy your codes to the console. 
+To see if the program is working or not, go to google chrome and press (Ctrl + Shift + J) for windows to go to console, then copy your codes to the console then press enter. 
 
 Example of the code (Blood Types): 
 
